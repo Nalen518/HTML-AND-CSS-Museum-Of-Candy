@@ -4,7 +4,7 @@ Welcome to the **Museum of Candy** project! This is a responsive, single-page we
 
 ## Overview
 
-The Museum of Candy is a landing page that showcases a beautiful, candy-themed aesthetic. It features:
+The Museum of Candy is a landing page. It features:
 - A responsive navigation bar that changes color when scrolling.
 - A striking hero section with repeating text and imagery.
 - Alternating image and text content blocks that stack neatly on smaller screens.
