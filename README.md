@@ -1,6 +1,6 @@
 # Museum of Candy
 
-Welcome to the **Museum of Candy** project! This is a responsive, single-page website built to demonstrate fundamental web development skills using HTML, custom CSS, and the Bootstrap 4 framework.
+The first single-page website built to demonstrate fundamental web development skills using HTML, custom CSS, and the Bootstrap 4 framework back then.
 
 ## Overview
 
