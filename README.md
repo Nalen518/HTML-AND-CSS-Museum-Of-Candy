@@ -32,10 +32,8 @@ To view the project, simply open the `index.html` file in your preferred web bro
 - **Responsive Grid**: The layout seamlessly adapts from desktop to mobile screens. On larger screens, text and images sit side-by-side. On mobile, they stack vertically for optimal reading.
 - **Dynamic Navbar**: The navigation bar is transparent at the top of the page but transitions to a solid color as you scroll down, ensuring readability against the content.
 
-## Recommended GitHub Repository Structure
-To keep your repository neat and professional when you upload it to GitHub, here is a standard folder structure you can use (and an explanation of why):
+## Repository Structure
 
-```text
 museum-of-candy/
 │
 ├── css/
