@@ -1,6 +1,6 @@
 # Museum of Candy
 
-The first single-page website built to demonstrate fundamental web development skills using HTML, custom CSS, and the Bootstrap 4 framework back then.
+The first single-page website that i built to demonstrate fundamental web development skills using HTML, custom CSS, and the Bootstrap 4 framework back then.
 
 ## Overview
 
@@ -34,6 +34,8 @@ To view the project, simply open the `index.html` file in your preferred web bro
 
 ## Repository Structure
 
+
+```text
 museum-of-candy/
 │
 ├── css/
